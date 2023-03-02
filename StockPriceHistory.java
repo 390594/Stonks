@@ -13,7 +13,9 @@ import java.io.FileWriter;
 
 /**
  * Retrieve historical stock price
- */
+ * 
+ * Daniel H
+ */ 
 public class StockPriceHistory
 {
 
